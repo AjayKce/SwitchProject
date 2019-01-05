@@ -22,9 +22,11 @@ it stops when it is turned on .Note that the current doesnot stop while the main
 <img src="screenshot/12.PNG">
 <img src="screenshot/13.PNG">
 <img src="screenshot/14.PNG">
+<img src="screenshot/14.PNG">
 
 <video width="500" height="500" autoplay controls>
   <source src="video/1.mp4" type="video/mp4">
   <source src="1.ogg" type="video/ogg">
-  Your browser does not support the video tag.
+  The video has attached to the video directory
 </video>
+
