@@ -5,7 +5,7 @@ best ever technology. This is a navbar and switch related project.This project i
 focused on how the navigation bar can be accessed by radio buttons and usage of <b>css Animations</b>. This project has two 
 phase . In first phase css animations and navigation bar can be expressed.The phase 2 project is a <b>Current Supplied Switch Project</b>
 Which has a four switch and one main switch at the middle when each switch is turned on the current flows through the medium and 
-it stops when it is turned on .Note that the current doesnot stop while the main switch is on;
+it stops when it is turned off .Note that the current doesnot stop while the main switch is on;
 
 ### Test Link
 
